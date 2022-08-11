@@ -1,0 +1,9 @@
+h3{
+    text-align: center;
+    font-size: 22px;
+}
+
+.icon-image-1:hover{
+    background-image: url(sprite.png);
+    background-position: -367px -267px;
+}
